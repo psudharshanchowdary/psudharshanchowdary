@@ -1,16 +1,14 @@
 ## Hi there 👋
+# Hi, I'm Pavuluru Sudharshan Chowdary 👋
 
-<!--
-**psudharshanchowdary/psudharshanchowdary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student engineer obsessed with clean code and pixel-perfect UI,
+building meaningful web, mobile, AI & Python-powered apps.
 
-Here are some ideas to get you started:
+## 🔭 Currently Working On
+An AI/ML project — exploring how machines can learn and solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools I Use
+Languages   → Python, JavaScript, HTML, CSS, MySQL, C
+Frontend    → React
+Design      → Figma (UI/UX)
+Others      → Git, GitHub, VS Code, AutoCAD, SAP
