@@ -4,10 +4,39 @@ I'm a student engineer obsessed with clean code and pixel-perfect UI,
 building meaningful web, mobile, AI & Python-powered apps.
 
 ## 🔭 Currently Working On
-An AI/ML project — exploring how machines can learn and solve real-world problems.
+- **AWS Receipt Processor** — Event-driven serverless expense management portal (Python, AWS)
+- **Smart Residential Operations Platform** — Full-stack role-based housing management system
+- **Cloud Kitchen Management System** — Web-based operations management for cloud kitchens
+- **AI/ML Projects** — Exploring how machines can learn and solve real-world problems
 
-## 🛠️ Tools I Use
-Languages   → Python, JavaScript, HTML, CSS, MySQL, C
-Frontend    → React
-Design      → Figma (UI/UX)
-Others      → Git, GitHub, VS Code, AutoCAD, SAP
+## 🛠️ Tech Stack
+
+**Languages**
+- Python, JavaScript, TypeScript, HTML, CSS, MySQL, C
+
+**Frontend & UI**
+- React, Vite, Next.js, Tailwind CSS
+- React Query (@tanstack/react-query)
+- Socket.io (Real-time communication)
+- Figma (UI/UX Design)
+
+**Backend & Cloud**
+- Node.js
+- Next.js API Routes
+- AWS (Lambda, event-driven architecture)
+- MySQL Database
+
+**Tools & DevOps**
+- Git, GitHub
+- VS Code
+- Vite (Build tool)
+- ESLint, PostCSS
+- Render (Deployment)
+- AutoCAD, SAP
+
+**Architecture & Patterns**
+- Serverless/FaaS
+- Full-stack web applications
+- Real-time socket communication
+- Role-based access control
+
