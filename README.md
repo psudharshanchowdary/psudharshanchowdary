@@ -3,12 +3,6 @@
 I'm a student engineer obsessed with clean code and pixel-perfect UI,
 building meaningful web, mobile, AI & Python-powered apps.
 
-## 🔭 Currently Working On
-- **AWS Receipt Processor** — Event-driven serverless expense management portal (Python, AWS)
-- **Smart Residential Operations Platform** — Full-stack role-based housing management system
-- **Cloud Kitchen Management System** — Web-based operations management for cloud kitchens
-- **AI/ML Projects** — Exploring how machines can learn and solve real-world problems
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -34,9 +28,4 @@ building meaningful web, mobile, AI & Python-powered apps.
 - Render (Deployment)
 - AutoCAD, SAP
 
-**Architecture & Patterns**
-- Serverless/FaaS
-- Full-stack web applications
-- Real-time socket communication
-- Role-based access control
 
