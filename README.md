@@ -1,4 +1,4 @@
-## Hi, I'm Pavuluru Sudharshan Chowdary 👋
+## Hi, I'm P Sudharshan Chowdary 👋
 
 I'm a student engineer obsessed with clean code and pixel-perfect UI,
 building meaningful web, mobile, AI & Python-powered apps.
