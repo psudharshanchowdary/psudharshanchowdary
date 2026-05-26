@@ -26,7 +26,7 @@ const sudharshan = {
   name:       "Pavuluru Sudharshan Chowdary",
   role:       "B.Tech CSE Student (VI Semester)",
   university: "SRM Institute of Science and Technology",
-  location:   "Hyderabad, India 🇮🇳",
+  location:   "chennai, India 🇮🇳",
   
   passion:    "Building meaningful apps with clean code & pixel-perfect UI",
   
