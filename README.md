@@ -137,19 +137,6 @@ I'm a **student engineer** who loves turning real-world problems into polished d
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=psudharshanchowdary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psudharshanchowdary&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=psudharshanchowdary&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="500"/>
-
-</div>
-
----
-
 ## 🎓 Education & Learning
 
 | | |
