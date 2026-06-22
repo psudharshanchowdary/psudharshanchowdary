@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github_readme_banner.svg" alt="Sudharshan Chowdary Banner" width="100%" />
+</p>
+
 ## Sudharshan Chowdary
 
 Computer Science undergraduate at SRMIST building production-grade software across machine learning, cloud infrastructure, and full-stack systems.
