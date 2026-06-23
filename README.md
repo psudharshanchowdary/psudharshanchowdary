@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/psudharshanchowdary/psudharshanchowdary/main/github_readme_banner.svg" alt="Sudharshan Chowdary Banner" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=psudharshanchowdary&style=flat-square&color=blueviolet" alt="Profile Views" />
 </p>
 
