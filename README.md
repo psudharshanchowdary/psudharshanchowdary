@@ -1,100 +1,94 @@
 <p align="center">
-  <img src="./github_readme_banner.svg" alt="Sudharshan Chowdary Banner" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=psudharshanchowdary&style=flat-square&color=blueviolet" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=psudharshanchowdary&label=Profile%20Views&color=00dfd8&style=flat-square" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00dfd8&center=true&vCenter=true&width=435&lines=Computer+Science+Undergrad;Applied+ML+%26+Computer+Vision;Cloud+Infrastructure;Full+Stack+Systems" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a68da5cb0.gif" alt="Divider" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=9b5de5&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sudharshan+👋;Student+Engineer+%7C+Full+Stack+Dev;Building+Web+%C2%B7+Mobile+%C2%B7+AI+%C2%B7+Cloud" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🌌 About Me
 
-- 🤖 **What I build**: Production-grade software across machine learning, computer vision, cloud infrastructure, and full-stack systems.
-- 📚 **What I'm learning**: Advanced computer vision applications for environmental/agricultural monitoring and efficient ML deployment pipelines.
-- 💡 **Fun Fact**: I monitor deforestation using satellite imagery, which means I'm technically watching the world's forests grow and shrink in real-time.
+I'm a student engineer obsessed with clean code and pixel-perfect UI, building meaningful web, mobile, AI & Python-powered apps.
 
-*I work on problems that produce a real, measurable output: something you can run, ship, and improve.*
+- 🔭 **Currently building**: Smart Residential Operations Platform & AWS Serverless tools
+- 🌱 **Currently learning**: Cloud architecture, event-driven systems, AI integration
+- 💡 **Fun fact**: I care as much about UI pixels as I do about backend performance
+
+📫 Let's connect → [LinkedIn](https://linkedin.com/in/p-sudharshan-chowdary-566489335)
 
 ---
 
 ## 🛠️ Tech Stack
 
-#### 💻 Languages
-[![Languages](https://skillicons.dev/icons?i=py,typescript,js,c,sqlite)](https://skillicons.dev)
-
-#### 🧰 Frameworks & Libraries
-[![Frameworks](https://skillicons.dev/icons?i=pytorch,react,nextjs,nodejs,spring,bootstrap)](https://skillicons.dev)
-
-#### 🛠️ Tools & DevOps
-[![Tools](https://skillicons.dev/icons?i=git,docker,githubactions,figma,postman,vscode)](https://skillicons.dev)
-
-#### ☁️ Cloud & Databases
-[![Cloud & DB](https://skillicons.dev/icons?i=aws,mysql)](https://skillicons.dev)
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=psudharshanchowdary&show_icons=true&theme=tokyonight&locale=en" alt="github-readme-stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psudharshanchowdary&theme=tokyonight" alt="github-readme-streak-stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psudharshanchowdary&layout=compact&theme=tokyonight" alt="github-readme-stats-top-langs" height="165" />
+  <strong>💻 Languages</strong><br/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,c,mysql" alt="Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=psudharshanchowdary&theme=tokyonight" alt="activity-graph" width="100%" />
+  <strong>⚛️ Frontend & UI</strong><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,vite" alt="Frontend & UI" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/psudharshanchowdary/psudharshanchowdary/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <strong>🔧 Backend & Cloud</strong><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,aws,mysql" alt="Backend & Cloud" />
+</p>
+
+<p align="center">
+  <strong>🛠️ Tools</strong><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eslint,render" alt="Tools" />
 </p>
 
 ---
 
 ## 🏆 Featured Projects
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| 🌲 **[AI Forest Monitoring](https://github.com/psudharshanchowdary/AI-Forest-Monitoring-Impact-Assessment)** | End-to-end satellite image segmentation pipeline for deforestation detection. | `Python` `PyTorch` `YOLOv8` `ONNX` `Streamlit` `GEE` |
-| 📷 **[CCTV AI Object Detection](https://github.com/psudharshanchowdary/ai-based-object-detection)** | Real-time CCTV object detection system with configurable alerts and snapshots. | `Python` `YOLOv8` `OpenCV` |
-| 🍂 **[Bloom Diagnose](https://github.com/psudharshanchowdary/bloom-diagnose-ml)** | AI-powered crop disease detection and treatment recommendation from leaves. | `Python` `TypeScript` `Machine Learning` |
-| ⚡ **[AWS Receipt Processor](https://github.com/psudharshanchowdary/aws-receipt-processor)** | Event-driven serverless pipeline for automated receipt management. | `Python` `AWS Lambda` `Textract` `DynamoDB` |
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/psudharshanchowdary/cloud-kitchen-management-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=psudharshanchowdary&repo=cloud-kitchen-management-system&theme=tokyonight" alt="cloud-kitchen-management-system" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/psudharshanchowdary/Smart-Residential-Operations-Platform">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=psudharshanchowdary&repo=Smart-Residential-Operations-Platform&theme=tokyonight" alt="Smart-Residential-Operations-Platform" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/psudharshanchowdary/aws-receipt-processor">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=psudharshanchowdary&repo=aws-receipt-processor&theme=tokyonight" alt="aws-receipt-processor" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/psudharshanchowdary/food-recipe-app-ui">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=psudharshanchowdary&repo=food-recipe-app-ui&theme=tokyonight" alt="food-recipe-app-ui" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Currently Building
+## 🚀 What I'm Building Now
 
-- 🛰️ Satellite image processing models for automated climate impact assessment
-- 📦 Standardizing edge-device model deployment pipelines using ONNX and TensorRT
-- ☁️ Designing serverless pipeline architectures on AWS
+Currently leveling up in cloud-native architecture and AI-powered web apps.  
+Open to collaborations, internships, and interesting projects.
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/p-sudharshan-chowdary-566489335">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:psudharshanc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://linkedin.com/in/p-sudharshan-chowdary-566489335">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/psudharshanchowdary">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a68da5cb0.gif" alt="Divider" width="100%" />
 </p>
