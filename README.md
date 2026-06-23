@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=9b5de5&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sudharshan+👋;Student+Engineer+%7C+Full+Stack+Dev;Building+Web+%C2%B7+Mobile+%C2%B7+AI+%C2%B7+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=9b5de5&center=true&vCenter=true&width=500&lines=Hi%2C+I%27m+Sudharshan+%F0%9F%91%8B;Student+Engineer+%7C+Full+Stack+Developer;Building+Web%2C+Mobile%2C+AI%2C+Cloud+Apps" alt="Typing SVG" />
 </p>
 
 ---
@@ -50,24 +50,24 @@ I'm a student engineer obsessed with clean code and pixel-perfect UI, building m
   <tr>
     <td>
       <a href="https://github.com/psudharshanchowdary/cloud-kitchen-management-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=psudharshanchowdary&repo=cloud-kitchen-management-system&theme=tokyonight" alt="cloud-kitchen-management-system" />
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=psudharshanchowdary&repo=cloud-kitchen-management-system&theme=tokyonight" alt="cloud-kitchen-management-system" />
       </a>
     </td>
     <td>
       <a href="https://github.com/psudharshanchowdary/Smart-Residential-Operations-Platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=psudharshanchowdary&repo=Smart-Residential-Operations-Platform&theme=tokyonight" alt="Smart-Residential-Operations-Platform" />
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=psudharshanchowdary&repo=Smart-Residential-Operations-Platform&theme=tokyonight" alt="Smart-Residential-Operations-Platform" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/psudharshanchowdary/aws-receipt-processor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=psudharshanchowdary&repo=aws-receipt-processor&theme=tokyonight" alt="aws-receipt-processor" />
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=psudharshanchowdary&repo=aws-receipt-processor&theme=tokyonight" alt="aws-receipt-processor" />
       </a>
     </td>
     <td>
       <a href="https://github.com/psudharshanchowdary/food-recipe-app-ui">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=psudharshanchowdary&repo=food-recipe-app-ui&theme=tokyonight" alt="food-recipe-app-ui" />
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=psudharshanchowdary&repo=food-recipe-app-ui&theme=tokyonight" alt="food-recipe-app-ui" />
       </a>
     </td>
   </tr>
