@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hi+I%27m+Sudharshan;Student+Engineer+%7C+Full+Stack+Dev;Web%2C+Mobile%2C+Cloud%2C+and+AI+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hi+I%27m+Sudharshan;Student+Engineer+%7C+Full+Stack+Dev;Web+·+Mobile+·+Cloud+·+AI+Builder" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 I'm a student engineer obsessed with clean code and pixel-perfect UI, building meaningful web, mobile, AI & Python-powered apps.
 
-- 🔭 **Currently building**: Smart Residential Platform & AWS serverless tools
+- 🔭 **Currently building**: ParkNow (React Native Mobile App) & AWS Serverless tools
 - 🌱 **Currently learning**: Cloud-native architecture & AI-powered apps
 - ⚡ **Fun fact**: I care as much about pixel-perfect UI as I do about clean backend code
 
@@ -42,7 +42,7 @@ I'm a student engineer obsessed with clean code and pixel-perfect UI, building m
 
 <p align="center">
   <strong>🔧 Backend & Cloud</strong><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,aws,mysql" alt="Backend & Cloud" />
+  <img src="https://skillicons.dev/icons?i=nodejs,aws,firebase,mysql" alt="Backend & Cloud" />
 </p>
 
 <p align="center">
@@ -57,25 +57,25 @@ I'm a student engineer obsessed with clean code and pixel-perfect UI, building m
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/psudharshanchowdary/cloud-kitchen-management-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=psudharshanchowdary&repo=cloud-kitchen-management-system&theme=tokyonight" alt="cloud-kitchen-management-system" />
+      <a href="https://github.com/psudharshanchowdary/ParkNow">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=psudharshanchowdary&repo=ParkNow&theme=tokyonight" alt="ParkNow" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/psudharshanchowdary/Smart-Residential-Operations-Platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=psudharshanchowdary&repo=Smart-Residential-Operations-Platform&theme=tokyonight" alt="Smart-Residential-Operations-Platform" />
+      <a href="https://github.com/psudharshanchowdary/cloud-kitchen-management-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=psudharshanchowdary&repo=cloud-kitchen-management-system&theme=tokyonight" alt="cloud-kitchen-management-system" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/psudharshanchowdary/aws-receipt-processor">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=psudharshanchowdary&repo=aws-receipt-processor&theme=tokyonight" alt="aws-receipt-processor" />
+      <a href="https://github.com/psudharshanchowdary/Smart-Residential-Operations-Platform">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=psudharshanchowdary&repo=Smart-Residential-Operations-Platform&theme=tokyonight" alt="Smart-Residential-Operations-Platform" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/psudharshanchowdary/food-recipe-app-ui">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=psudharshanchowdary&repo=food-recipe-app-ui&theme=tokyonight" alt="food-recipe-app-ui" />
+      <a href="https://github.com/psudharshanchowdary/aws-receipt-processor">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=psudharshanchowdary&repo=aws-receipt-processor&theme=tokyonight" alt="aws-receipt-processor" />
       </a>
     </td>
   </tr>
