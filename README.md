@@ -54,32 +54,12 @@ I'm a student engineer obsessed with clean code and pixel-perfect UI, building m
 
 ## 🚀 Featured Projects
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/psudharshanchowdary/ParkNow">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=psudharshanchowdary&repo=ParkNow&theme=tokyonight" alt="ParkNow" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/psudharshanchowdary/cloud-kitchen-management-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=psudharshanchowdary&repo=cloud-kitchen-management-system&theme=tokyonight" alt="cloud-kitchen-management-system" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/psudharshanchowdary/Smart-Residential-Operations-Platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=psudharshanchowdary&repo=Smart-Residential-Operations-Platform&theme=tokyonight" alt="Smart-Residential-Operations-Platform" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/psudharshanchowdary/aws-receipt-processor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=psudharshanchowdary&repo=aws-receipt-processor&theme=tokyonight" alt="aws-receipt-processor" />
-      </a>
-    </td>
-  </tr>
-</table>
+| Project | Description | Tech Stack | Stars |
+| :--- | :--- | :--- | :--- |
+| 🚗 **[ParkNow](https://github.com/psudharshanchowdary/ParkNow)** | Mobile app to view real-time parking availability and book spots in advance. | ![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white) | [![Stars](https://img.shields.io/github/stars/psudharshanchowdary/ParkNow?style=flat-square&color=blueviolet)](https://github.com/psudharshanchowdary/ParkNow) |
+| 🍳 **[Cloud Kitchen Ops](https://github.com/psudharshanchowdary/cloud-kitchen-management-system)** | Operations system for cloud kitchens—order tracking, inventory, and workflows. | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) | [![Stars](https://img.shields.io/github/stars/psudharshanchowdary/cloud-kitchen-management-system?style=flat-square&color=blueviolet)](https://github.com/psudharshanchowdary/cloud-kitchen-management-system) |
+| 🏠 **[Smart Residential Ops](https://github.com/psudharshanchowdary/Smart-Residential-Operations-Platform)** | Housing management portal with role-based communication and workflows. | ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) | [![Stars](https://img.shields.io/github/stars/psudharshanchowdary/Smart-Residential-Operations-Platform?style=flat-square&color=blueviolet)](https://github.com/psudharshanchowdary/Smart-Residential-Operations-Platform) |
+| 🧾 **[AWS Receipt Processor](https://github.com/psudharshanchowdary/aws-receipt-processor)** | Event-driven serverless receipt expense management pipeline. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) | [![Stars](https://img.shields.io/github/stars/psudharshanchowdary/aws-receipt-processor?style=flat-square&color=blueviolet)](https://github.com/psudharshanchowdary/aws-receipt-processor) |
 
 ---
 
