@@ -30,23 +30,23 @@ I'm a student engineer obsessed with clean code and pixel-perfect UI, building m
 
 ## 🛠️ Tech Stack
 
+<h4 align="center">💻 Languages</h4>
 <p align="center">
-  <strong>💻 Languages</strong><br/>
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,c,mysql" alt="Languages" />
 </p>
 
+<h4 align="center">⚛️ Frontend & UI</h4>
 <p align="center">
-  <strong>⚛️ Frontend & UI</strong><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,figma" alt="Frontend & UI" />
 </p>
 
+<h4 align="center">🔧 Backend & Cloud</h4>
 <p align="center">
-  <strong>🔧 Backend & Cloud</strong><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,aws,firebase,mysql" alt="Backend & Cloud" />
 </p>
 
+<h4 align="center">🛠️ Tools</h4>
 <p align="center">
-  <strong>🛠️ Tools</strong><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" alt="Tools" />
 </p>
 
@@ -58,24 +58,24 @@ I'm a student engineer obsessed with clean code and pixel-perfect UI, building m
   <tr>
     <td>
       <a href="https://github.com/psudharshanchowdary/ParkNow">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=psudharshanchowdary&repo=ParkNow&theme=tokyonight" alt="ParkNow" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=psudharshanchowdary&repo=ParkNow&theme=tokyonight" alt="ParkNow" />
       </a>
     </td>
     <td>
       <a href="https://github.com/psudharshanchowdary/cloud-kitchen-management-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=psudharshanchowdary&repo=cloud-kitchen-management-system&theme=tokyonight" alt="cloud-kitchen-management-system" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=psudharshanchowdary&repo=cloud-kitchen-management-system&theme=tokyonight" alt="cloud-kitchen-management-system" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/psudharshanchowdary/Smart-Residential-Operations-Platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=psudharshanchowdary&repo=Smart-Residential-Operations-Platform&theme=tokyonight" alt="Smart-Residential-Operations-Platform" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=psudharshanchowdary&repo=Smart-Residential-Operations-Platform&theme=tokyonight" alt="Smart-Residential-Operations-Platform" />
       </a>
     </td>
     <td>
       <a href="https://github.com/psudharshanchowdary/aws-receipt-processor">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=psudharshanchowdary&repo=aws-receipt-processor&theme=tokyonight" alt="aws-receipt-processor" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=psudharshanchowdary&repo=aws-receipt-processor&theme=tokyonight" alt="aws-receipt-processor" />
       </a>
     </td>
   </tr>
