@@ -52,14 +52,56 @@ I'm a student engineer obsessed with clean code and pixel-perfect UI, building m
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 Featured Projects
 
-| Project | Description | Tech Stack | Stars |
-| :--- | :--- | :--- | :--- |
-| 🚗 **[ParkNow](https://github.com/psudharshanchowdary/ParkNow)** | Mobile app to view real-time parking availability and book spots in advance. | ![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white) | [![Stars](https://img.shields.io/github/stars/psudharshanchowdary/ParkNow?style=flat-square&color=blueviolet)](https://github.com/psudharshanchowdary/ParkNow) |
-| 🍳 **[Cloud Kitchen Ops](https://github.com/psudharshanchowdary/cloud-kitchen-management-system)** | Operations system for cloud kitchens—order tracking, inventory, and workflows. | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) | [![Stars](https://img.shields.io/github/stars/psudharshanchowdary/cloud-kitchen-management-system?style=flat-square&color=blueviolet)](https://github.com/psudharshanchowdary/cloud-kitchen-management-system) |
-| 🏠 **[Smart Residential Ops](https://github.com/psudharshanchowdary/Smart-Residential-Operations-Platform)** | Housing management portal with role-based communication and workflows. | ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) | [![Stars](https://img.shields.io/github/stars/psudharshanchowdary/Smart-Residential-Operations-Platform?style=flat-square&color=blueviolet)](https://github.com/psudharshanchowdary/Smart-Residential-Operations-Platform) |
-| 🧾 **[AWS Receipt Processor](https://github.com/psudharshanchowdary/aws-receipt-processor)** | Event-driven serverless receipt expense management pipeline. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) | [![Stars](https://img.shields.io/github/stars/psudharshanchowdary/aws-receipt-processor?style=flat-square&color=blueviolet)](https://github.com/psudharshanchowdary/aws-receipt-processor) |
+<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🚗 ParkNow</h3>
+      <p>
+        <a href="https://github.com/psudharshanchowdary/ParkNow">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github" alt="Repo" />
+        </a>
+      </p>
+      <p>Mobile app allowing drivers to view real-time parking availability and book spots in advance.</p>
+      <p><strong>Tech:</strong> <code>React Native</code> <code>Firebase</code> <code>Firestore</code> <code>Razorpay</code></p>
+    </td>
+    <td width="50%">
+      <h3>🍳 Cloud Kitchen Management</h3>
+      <p>
+        <a href="https://github.com/psudharshanchowdary/cloud-kitchen-management-system">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github" alt="Repo" />
+        </a>
+      </p>
+      <p>Web-based operations system for cloud kitchens — real-time order tracking and inventory management.</p>
+      <p><strong>Tech:</strong> <code>TypeScript</code> <code>Next.js</code> <code>Spring Boot</code> <code>MySQL</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🏠 Smart Residential Platform</h3>
+      <p>
+        <a href="https://github.com/psudharshanchowdary/Smart-Residential-Operations-Platform">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github" alt="Repo" />
+        </a>
+      </p>
+      <p>Full-stack role-based housing management portal for streamlined tenant communication and workflows.</p>
+      <p><strong>Tech:</strong> <code>TypeScript</code> <code>React</code> <code>Node.js</code> <code>RBAC</code></p>
+    </td>
+    <td width="50%">
+      <h3>🧾 AWS Receipt Processor</h3>
+      <p>
+        <a href="https://github.com/psudharshanchowdary/aws-receipt-processor">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github" alt="Repo" />
+        </a>
+      </p>
+      <p>Event-driven serverless receipt expense management pipeline using S3, Lambda, Textract, and DynamoDB.</p>
+      <p><strong>Tech:</strong> <code>Python</code> <code>AWS Lambda</code> <code>Textract</code> <code>DynamoDB</code></p>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
