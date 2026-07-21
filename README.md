@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=psudharshanchowdary&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Repos-9_Public-6366F1?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
 </p>
 
 <p align="center">
